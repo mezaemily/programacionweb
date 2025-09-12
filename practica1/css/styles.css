@@ -10,3 +10,65 @@ body{
     height: 70px;
     background-color: rgba(25, 25, 175, 0.355);
 }
+#header #title{
+     width: 200px;
+     height: 30px;
+     background-color: brown;
+     margin-left: 20px;
+     margin-top: 20px;
+     float: left;
+}
+div#columna2{
+    background-color: #a19d9d;
+    height: 400PX;
+
+}
+div#columna2 div.cuadrito{
+    background-color: azure;
+    width: 20%;
+    height: 70%;
+    margin-left: 4%;
+    margin-top: 60px;
+    float: left;
+}
+div#columna3{
+    background-color: brown;
+    height: 200px;
+}
+div#columna3 div.cuadrito1{
+    background-color: azure;
+    width: 20%;
+    height: 70%;
+    margin-left: 15%;
+    margin-top: 30px;
+    float: left;
+}
+div#columna3 div#sep{
+    float: right;
+    margin-right: 15%;
+
+}
+div#columna4{
+    background-color: rgb(68, 68, 68);
+    height: 100px;
+}
+div#columna4 div.cuadrito2{
+    background-color: azure;
+    width: 15%;
+    height: 50%;
+    margin-right: 3%;
+    margin-top: 30px;
+    float: right;
+}
+div#columna5{
+    background-color: brown;
+    height: 100px;
+}
+div#columna5 div.cuadrito3{
+    background-color: azure;
+    width: 20%;
+    height: 50%;
+    margin-left: 40%;
+    margin-top: 30px;
+    float: left;
+}
